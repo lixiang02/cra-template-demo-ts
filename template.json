@@ -2,7 +2,7 @@
     "package": {
         "dependencies": {
             "@types/redux-logger": "^3.0.7",
-            "antd": "3.5.3",
+            "antd": "^4.2.4",
             "history": "^4.10.1",
             "react": "^16.13.1",
             "react-dom": "^16.13.1",
